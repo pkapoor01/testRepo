@@ -1,6 +1,6 @@
 {
     "AKey1": {
-      "template": "template changed again",
+      "template": "template changed now",
       "notes": "SimpleKey represents the simplest possible translation key specification structure"
     },
     "WKey2": {
@@ -13,7 +13,7 @@
     },
     "RKey4": {
       "template": "Value4",
-      "notes": "Some overall notes here"
+      "notes": "Some overall notes here 2"
     },
     "BKey5": {
       "template": "Value5",
